@@ -1,0 +1,35 @@
+{
+  "title": "Customized content - antd@4.10.2",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "antd": "4.10.2",
+    "axios": "0.21.1",
+    "node.js": "0.0.1-security",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "^4.0.0",
+    "redux": "4.0.5"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "name": "customized-content-antd4102-forked",
+  "description": null,
+  "version": "0.0.363"
+}

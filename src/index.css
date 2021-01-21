@@ -1,0 +1,14 @@
+body {
+  background-color: pink;
+}
+
+.anggota-blackpink {
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+.namaKu {
+  text-align: center;
+}
