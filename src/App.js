@@ -64,14 +64,13 @@ export default function App() {
           <DetailPerson />
         </Route>
       </Switch>
-
-      {/* <Route path="/jennie" component={Jennie} />
+      <Route path="/jennie" component={Jennie} />
 
       <Route path="/rose" component={Rose} />
 
       <Route path="/lisa" component={Lisa} />
 
-      <Route path="/jisoo" component={Jisoo} /> */}
+      <Route path="/jisoo" component={Jisoo} />
     </div>
   );
 }
